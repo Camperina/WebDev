@@ -1,4 +1,4 @@
 # WebDev
 
-This is a link to the homepage created in my Web Development class. From my homepage,
-you can click any of the links to see the actual pages I created in the class.
+The address to the homepage created in my Web Development class is http://mcs.athens.edu/~mcamp2/. 
+From my homepage, you can access all of the webpages I created in class.
